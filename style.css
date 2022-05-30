@@ -17,11 +17,13 @@ body {
 }
 
 .content h2 {
+    padding: 30px;
     width: 700px;
     align-self: flex-end;
 }
 
 .content h1 {
+    padding: 30px;
     margin-right: auto;
     margin-left: auto;
     font-size: 50px;
